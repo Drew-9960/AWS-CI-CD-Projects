@@ -6,13 +6,13 @@
 
 ## Docker Setup In EC2 commands to be Executed
 
-#optinal
+#optinal commands 
 
 sudo apt-get update -y
 
 sudo apt-get upgrade
 
-#required
+#required commands 
 
 curl -fsSL https://get.docker.com -o get-docker.sh
 
